@@ -20,7 +20,7 @@ A Hands-on Colab notebook for applying RLHF (Reinforcement Learning from Human F
 ## Quick Start
 
 1. **Clone or open in Colab**  
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahmadpgh/tmls-rl-for-llm-safety/blob/main/RL_for_LLMs_to_Enhance_Safety.ipynb)
 
 2. **Upload SafeEdit dataset**  
    Download from [Google Drive link](https://drive.google.com/file/d/1eJ7UzxS9KlOeIpCH_ABk1HqXX3ELDxMl/view?usp=drive_link).  
