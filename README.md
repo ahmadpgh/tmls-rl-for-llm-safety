@@ -1,4 +1,6 @@
-# Reinforcement Learning for LLMs to Enhance Safety — TMLS Workshop
+<img align="left" src="https://www.torontomachinelearning.com/wp-content/uploads/2022/08/TMLS-Logo.png" width="110"> 
+
+# TMLS Workshop: Reinforcement Learning for LLMs to Enhance Safety
 
 A Hands-on Colab notebook for applying RLHF (Reinforcement Learning from Human Feedback) to improve the safety of large language models (LLMs) using the [SafeEdit dataset](https://huggingface.co/datasets/zjunlp/SafeEdit).
 
